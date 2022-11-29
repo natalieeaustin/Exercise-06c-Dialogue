@@ -5,14 +5,15 @@
 	"folders": {
 		"Characters": {
 			"files": [
-
+				"character-1669691182.json",
+				"character-1669691243.json"
 			],
 			"folders": {
 
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Definitions": {
@@ -41,7 +42,7 @@
 		},
 		"Timelines": {
 			"files": [
-
+				"timeline-1669691306.json"
 			],
 			"folders": {
 
